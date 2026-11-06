@@ -3,7 +3,6 @@
 - **respostas.xls:** respostas coletadas e informações das entradas.
 - **Testes.ipynb:** notebook que realiza as análises.
 - **requirements.txt:** bibliotecas necessárias para executar o notebook.
-- **README.md:** instruções de uso.
 
 ## Como usar
 

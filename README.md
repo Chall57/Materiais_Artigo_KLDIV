@@ -7,7 +7,7 @@
 ## Como usar
 
 1. Mantenha todos os arquivos na mesma pasta.
-2. Com Python 3.12, instale as bibliotecas pelo terminal nessa pasta:
+2. Com Python, instale as bibliotecas pelo terminal nessa pasta:
 
    ```bash
    python -m pip install -r requirements.txt
